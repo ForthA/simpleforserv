@@ -2,7 +2,7 @@
   "menu": "Файл", 
   "commands": [ 
       {
-          "title": "Новыsadй", 
+          "title": "I just need somebody to love", 
           "action":"CreateDoc"
       }, 
       {
