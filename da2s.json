@@ -2,7 +2,7 @@
   "menu": "Файл", 
   "commands": [ 
       {
-          "title": "Новый", 
+          "title": "Новыsadй", 
           "action":"CreateDoc"
       }, 
       {
